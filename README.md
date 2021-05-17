@@ -14,6 +14,7 @@ Support commands:
    
    http://IP-ADDRESS:9999/set_callback?url=YOUR_CALLBACK_URL
    
+Support callbacks:
 * Receive SMS
    
    http://YOUR_CALLBACK_URL:80/?from=NUMBER&status=STATUS&text=TEXT
